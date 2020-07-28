@@ -1,0 +1,3170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>259972</id>
+  <Actors>|Jason Ritter|Kristen Schaal|Alex Hirsch|Jennifer Coolidge|Jessica DiCicco|J. K. Simmons|Carl Faruolo|Dee Bradley Baker|Niki Yang|Thurop Van Orman|Jackie Buscarino|T. J. Miller|Grey DeLisle|Keith Ferguson|Kevin Michael Richardson|Linda Cardellini|Cecil Baldwin|Dave Wittenberg|Gregg Turkington|Justin Roiland|Louis C.K.|Matt Chapman|Nick Offerman|Will Forte|</Actors>
+  <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
+  <Airs_Time>9:30 PM</Airs_Time>
+  <ContentRating>TV-Y7</ContentRating>
+  <FirstAired>2012-06-15</FirstAired>
+  <Genre>|Adventure|Animation|Comedy|Family|Fantasy|</Genre>
+  <IMDB_ID>tt1865718</IMDB_ID>
+  <Language>en</Language>
+  <Network>Disney XD</Network>
+  <NetworkID></NetworkID>
+  <Overview>Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer helping their Great Uncle Stan run a tourist trap in the mysterious town of Gravity Falls, Oregon.</Overview>
+  <Rating>9.3</Rating>
+  <RatingCount>49</RatingCount>
+  <Runtime>25</Runtime>
+  <SeriesID>80670</SeriesID>
+  <SeriesName>Gravity Falls</SeriesName>
+  <Status>Ended</Status>
+  <added>2012-06-15 13:05:55</added>
+  <addedBy>201821</addedBy>
+  <banner>graphical/259972-g.jpg</banner>
+  <fanart>fanart/original/259972-1.jpg</fanart>
+  <finale_aired>2016-02-15</finale_aired>
+  <lastupdated>1482478079</lastupdated>
+  <poster>posters/259972-1.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id>EP01566290</zap2it_id>
+</Series>
+<Episode>
+  <id>4682639</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Candy Monster (Dipper's Guide to the Unexplained)</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2013-10-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper and Mabel must battle a monster who takes their Summerween candy. </Overview>
+  <ProductionCode>618G-704</ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4682639.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1476508606</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 08:52:07</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4684168</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Stan's Tattoo (Dipper's Guide to the Unexplained)</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2013-10-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper devises a plan to unravel the enigma that is Stan’s tattoo.</Overview>
+  <ProductionCode>618G-701</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4684168.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1476509871</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 08:52:51</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4684169</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mailbox (Dipper's Guide to the Unexplained)</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2013-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper and Soos stumble upon a mailbox in the middle of the forest and make it their mission to discover who (or what) picks up the mail left inside.</Overview>
+  <ProductionCode>618G-702</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4684169.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1476510035</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 08:53:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4684170</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lefty (Dipper's Guide to the Unexplained)</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2013-10-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper sets out to discover why a certain Gravity Falls resident always faces left.</Overview>
+  <ProductionCode>618G-706</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>Tim McKeon</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4684170.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1476510082</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 08:54:45</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4684171</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Tooth (Dipper's Guide to the Unexplained)</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2013-10-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper and Mabel find a gigantic tooth on the shores of the lake, and set out in a rowboat to find out where it came from.</Overview>
+  <ProductionCode>718G-705</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4684171.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472482638</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:06:10</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4684172</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Hide Behind (Dipper's Guide to the Unexplained)</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2013-10-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After hearing rumors of a local lumberjack legend, Dipper investigates a mysterious creature that has been heard, but never seen.</Overview>
+  <ProductionCode>618G-703</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4684172.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472518182</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:06:51</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4790287</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dating (Mabel's Guide to Life)</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-02-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel gives her thoughts on dating and puts her dating quiz to the test with three of Gravity Falls’ most eligible bachelors — Grunkle Stan, Dipper and Soos.</Overview>
+  <ProductionCode>618G-708</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4790287.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472482796</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:07:57</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4790288</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Stickers (Mabel's Guide to Life)</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-02-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel gives her unique perspective on the history of stickers, their many styles and uses.</Overview>
+  <ProductionCode>618G-711</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4790288.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472482833</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:08:52</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4790289</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Fashion (Mabel's Guide to Life)</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-02-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel reveals her fashion secrets to the world, including FLASH MAKEOVERS!</Overview>
+  <ProductionCode>618G-709</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4790289.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472482877</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:09:48</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4790290</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Colors (Mabel's Guide to Life)</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-02-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel’s survey into everyone’s favorite colors causes a color emergency when she learns Grunkle Stan has never seen a rainbow.</Overview>
+  <ProductionCode>618G-712</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4790290.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472482909</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:10:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4790291</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Art (Mabel's Guide to Life)</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2014-02-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel reveals that her gift of art has driven her to genius level with the creation of her own personal art movement — the “Caticature.”</Overview>
+  <ProductionCode>618G-707</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4790291.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472482929</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:11:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4861755</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Golf Cart (Fixin' It with Soos)</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2014-04-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Soos fixes up the golf cart so that Dipper and Wendy can perform a stunt.</Overview>
+  <ProductionCode>618G-716</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4861755.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472483046</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:14:03</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4861847</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Hirsch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Cuckoo Clock (Fixin' It with Soos)</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2014-04-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Soos fixes up a Cuckoo Clock and gives it an ultra-awesome remodel.</Overview>
+  <ProductionCode>618G-715</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4861847.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472483070</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:14:45</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4861857</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>TV Shorts #1</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2014-04-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel watches the public television of Gravity Falls. On the television she finds a Mystery Shack TV commercial, some words by Soos, and footage of Gideon in the prison, which appears to be a sort of reality show about his interaction with fellow inmates.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4861857.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472483210</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:16:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4861858</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>TV Shorts #2</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2014-04-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Grunkle Stan watches Ducktective, Teenz Talk, and Why you ackin so cray cray.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4861858.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472483224</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:19:03</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4894567</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Heist Movie (Mabel's Scrapbook)</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2014-06-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel recalls the Pines' eleborate plan to break into a movie theatre.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4894567.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472483305</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:22:00</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4894568</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Petting Zoo (Mabel's Scrapbook)</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2014-06-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel remembers when the family visited a petting zoo.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/4894568.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1472483330</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-06-06 09:21:30</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5229413</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>6-18 (Old Man McGucket's Conspiracy Corner)</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2015-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5229413.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352175</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-05 14:38:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5229414</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Cryptograms (Old Man McGucket's Conspiracy Corner)</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2015-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5229414.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352183</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-05 14:38:24</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5229415</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Eyes (Old Man McGucket's Conspiracy Corner)</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2015-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5229415.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352190</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-05 14:38:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5229416</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Government Agency (Old Man McGucket's Conspiracy Corner)</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2015-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5229416.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352197</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-05 14:38:52</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5229417</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Ice Man (Old Man McGucket's Conspiracy Corner)</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2015-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5229417.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352203</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-05 14:39:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5229418</id>
+  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Laptop Code (Old Man McGucket's Conspiracy Corner)</EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired>2015-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5229418.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352211</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-05 14:40:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5229419</id>
+  <Combined_episodenumber>24</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Medallions (Old Man McGucket's Conspiracy Corner)</EpisodeName>
+  <EpisodeNumber>24</EpisodeNumber>
+  <FirstAired>2015-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5229419.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352219</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-05 14:40:09</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5229420</id>
+  <Combined_episodenumber>25</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Relationship Shipping (Old Man McGucket's Conspiracy Corner)</EpisodeName>
+  <EpisodeNumber>25</EpisodeNumber>
+  <FirstAired>2015-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5229420.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352225</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-05 14:40:17</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5229421</id>
+  <Combined_episodenumber>26</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Stan's Brother (Old Man McGucket's Conspiracy Corner)</EpisodeName>
+  <EpisodeNumber>26</EpisodeNumber>
+  <FirstAired>2015-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5229421.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352231</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-05 14:40:24</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5229422</id>
+  <Combined_episodenumber>27</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Triangles (Old Man McGucket's Conspiracy Corner)</EpisodeName>
+  <EpisodeNumber>27</EpisodeNumber>
+  <FirstAired>2015-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5229422.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352237</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-05 14:40:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5388060</id>
+  <Combined_episodenumber>28</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Ready For Anything (Pocalypse Preppin)</EpisodeName>
+  <EpisodeNumber>28</EpisodeNumber>
+  <FirstAired>2015-10-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5388060.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352248</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-10-30 13:48:22</thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5388061</id>
+  <Combined_episodenumber>29</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Hunkered Down (Pocalypse Preppin)</EpisodeName>
+  <EpisodeNumber>29</EpisodeNumber>
+  <FirstAired>2015-10-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5388061.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352254</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-10-30 13:48:33</thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5388062</id>
+  <Combined_episodenumber>30</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Hillbilly Shelter (Pocalypse Preppin)</EpisodeName>
+  <EpisodeNumber>30</EpisodeNumber>
+  <FirstAired>2015-10-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5388062.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352261</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-10-30 13:48:42</thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5388063</id>
+  <Combined_episodenumber>31</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Food Stockpile (Pocalypse Preppin)</EpisodeName>
+  <EpisodeNumber>31</EpisodeNumber>
+  <FirstAired>2015-10-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5388063.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1447352268</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-10-30 13:48:51</thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5401036</id>
+  <Combined_episodenumber>32</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>How'd It Happen? (Pocalypse Preppin)</EpisodeName>
+  <EpisodeNumber>32</EpisodeNumber>
+  <FirstAired>2015-11-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448217974</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5401037</id>
+  <Combined_episodenumber>33</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Checkmate (Pocalypse Preppin)</EpisodeName>
+  <EpisodeNumber>33</EpisodeNumber>
+  <FirstAired>2015-11-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218002</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5405299</id>
+  <Combined_episodenumber>34</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Governor of America (Pocalypse Preppin)</EpisodeName>
+  <EpisodeNumber>34</EpisodeNumber>
+  <FirstAired>2015-11-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218015</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5405302</id>
+  <Combined_episodenumber>35</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Rememberance (Pocalypse Preppin)</EpisodeName>
+  <EpisodeNumber>35</EpisodeNumber>
+  <FirstAired>2015-11-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218023</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5405304</id>
+  <Combined_episodenumber>36</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Jar of Eyes (Shop at Home with Mr. Mystery)</EpisodeName>
+  <EpisodeNumber>36</EpisodeNumber>
+  <FirstAired>2015-11-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218031</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5406268</id>
+  <Combined_episodenumber>37</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Aztec Calendar (Shop at Home with Mr. Mystery)</EpisodeName>
+  <EpisodeNumber>37</EpisodeNumber>
+  <FirstAired>2015-11-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218036</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5408655</id>
+  <Combined_episodenumber>38</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Fez (Shop at Home with Mr. Mystery)</EpisodeName>
+  <EpisodeNumber>38</EpisodeNumber>
+  <FirstAired>2015-11-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218042</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5410349</id>
+  <Combined_episodenumber>39</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Deer Teeth (Shop at Home with Mr. Mystery)</EpisodeName>
+  <EpisodeNumber>39</EpisodeNumber>
+  <FirstAired>2015-11-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218051</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5410350</id>
+  <Combined_episodenumber>40</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Mystery Box (Shop at Home with Mr. Mystery)</EpisodeName>
+  <EpisodeNumber>40</EpisodeNumber>
+  <FirstAired>2015-11-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218058</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5410838</id>
+  <Combined_episodenumber>41</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>UFO on a String (Shop at Home with Mr. Mystery)</EpisodeName>
+  <EpisodeNumber>41</EpisodeNumber>
+  <FirstAired>2015-11-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218633</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5410839</id>
+  <Combined_episodenumber>42</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Nacho Necklace (Shop at Home with Mr. Mystery)</EpisodeName>
+  <EpisodeNumber>42</EpisodeNumber>
+  <FirstAired>2015-11-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218639</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5410840</id>
+  <Combined_episodenumber>43</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Outtakes (Shop at Home with Mr. Mystery)</EpisodeName>
+  <EpisodeNumber>43</EpisodeNumber>
+  <FirstAired>2015-11-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218643</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5410842</id>
+  <Combined_episodenumber>44</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Diving Helmet (Shop at Home with Mr. Mystery)</EpisodeName>
+  <EpisodeNumber>44</EpisodeNumber>
+  <FirstAired>2015-11-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1448218648</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5509514</id>
+  <Combined_episodenumber>45</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Between the Pines</EpisodeName>
+  <EpisodeNumber>45</EpisodeNumber>
+  <FirstAired>2016-02-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Hosted by creator Alex Hirsch and Gravity Falls character Time Baby. The special elaborates on the production of the show, giving fans an inside look behind the scenes. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>20</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/259972/5509514.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1455076161</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2016-02-09 13:02:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5517698</id>
+  <Combined_episodenumber>46</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Cease and Desist  (Creepy Letters from Lil Gideon)</EpisodeName>
+  <EpisodeNumber>46</EpisodeNumber>
+  <FirstAired>2014-11-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Lil Gideon writes to Mabel and things get weird.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5517698.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1457002664</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2016-03-03 02:57:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5517692</id>
+  <Combined_episodenumber>47</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Devoted (Creepy Letters from Lil Gideon)</EpisodeName>
+  <EpisodeNumber>47</EpisodeNumber>
+  <FirstAired>2015-04-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Lil Gideon writes Mabel once again.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5517692.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1457002517</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2016-03-03 02:54:54</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5517694</id>
+  <Combined_episodenumber>48</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Revenge (Creepy Letters from Lil Gideon)</EpisodeName>
+  <EpisodeNumber>48</EpisodeNumber>
+  <FirstAired>2015-04-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Lil Gideon writes to the people of Gravity Falls wishing the love and forgiveness.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5517694.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1457002452</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2016-03-03 02:53:49</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5517696</id>
+  <Combined_episodenumber>49</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Pine-Scented  (Creepy Letters from Lil Gideon)</EpisodeName>
+  <EpisodeNumber>49</EpisodeNumber>
+  <FirstAired>2015-04-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Lil Gideon writes the Pines family letting them know they are always in his thoughts, and other places.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5517696.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1457002458</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2016-03-03 02:53:56</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5517697</id>
+  <Combined_episodenumber>50</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dipper Tickle  (Creepy Letters from Lil Gideon)</EpisodeName>
+  <EpisodeNumber>50</EpisodeNumber>
+  <FirstAired>2015-04-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Lil Gideon writes to Dipper to offer up an apology...or not.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5517697.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1457002582</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2016-03-03 02:56:00</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5654849</id>
+  <Combined_episodenumber>51</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Mabel's 10 Favorite Sweaters</EpisodeName>
+  <EpisodeNumber>51</EpisodeNumber>
+  <FirstAired>2016-02-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Welcome to Sweater-Town. Land of the best Mabel sweaters ever!</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1466530787</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5654850</id>
+  <Combined_episodenumber>52</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Top 10 Weirdest Monsters</EpisodeName>
+  <EpisodeNumber>52</EpisodeNumber>
+  <FirstAired>2016-02-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Celebrate the Weirdpocalypse with the weirdest monsters of Gravity Falls.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1466530865</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5700065</id>
+  <Combined_episodenumber>53</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Pilot</EpisodeName>
+  <EpisodeNumber>53</EpisodeNumber>
+  <FirstAired>2016-08-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In 2010 recent CalArts grad Alex Hirsch pitched &quot;Gravity Falls&quot; to the Disney Channel. He wrote and drew the storyboard entirely on post-it notes and a rushed pilot was commissioned by Disney to a small low budget flash animation studio in Canada.
+
+This rough in-house &quot;pilot&quot; Disney produced, though ultimately in a very different style and never fully &quot;finished&quot;, shows us the very first ever glimpse of Dipper &amp; Mabel.
+
+Unsatisfied with the look and style of this pilot, Alex Hirsch personally hired his own team when the show was greenlit to series.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/259972/5700065.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1470591948</lastupdated>
+  <seasonid>554213</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2016-08-03 12:09:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4344073</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>John Aoshima</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Tourist Trapped</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2012-06-15</FirstAired>
+  <GuestStars>|Fred Tatasciore|Kimberly Mooney|</GuestStars>
+  <IMDB_ID>tt2152239</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Dipper and Mabel Pines arrive to spend their summer break in the remote town of Gravity Falls, Mabel’s suspiciously weird new boyfriend causes the twins to come face to face with the town’s strange and uncanny secrets.</Overview>
+  <ProductionCode>618G-107</ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Alex Hirsch</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/259972/4344073.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621600</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4344074</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>John Aoshima</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Legend of the Gobblewonker</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2012-06-29</FirstAired>
+  <GuestStars>|Will Friedle|Grey DeLisle|</GuestStars>
+  <IMDB_ID>tt2168670</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Dipper and Mabel hear rumors of a sea monster that lives at the bottom of the local lake, they enlist Soos to take them on a boating expedition to prove it really does exist.</Overview>
+  <ProductionCode>618G-101</ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/259972/4344074.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621613</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4344075</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>John Aoshima</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Headhunters</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2012-06-30</FirstAired>
+  <GuestStars>|Larry King|Coolio|John Oliver|</GuestStars>
+  <IMDB_ID>tt2168676</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When someone tampers with Mabel's life-size wax statue of Grunkle Stan, she and Dipper set out to find the culprit. Meanwhile, Grunkle Stan mourns over the loss of his wax doppelganger.</Overview>
+  <ProductionCode>618G-103</ProductionCode>
+  <Rating>8.8</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Aury Wallington|Alex Hirsch|</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/259972/4344075.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621624</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4344076</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>John Aoshima</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Hand That Rocks the Mabel</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2012-07-06</FirstAired>
+  <GuestStars>Thurop Van Orman</GuestStars>
+  <IMDB_ID>tt2229194</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper and Mabel discover that their seemingly cherubic new neighbor, Lil' Gideon, happens to be the town's adored psychic. But when Lil' Gideon guilts her into dating him, she and Dipper soon learn that his cuteness can fade all too quickly.</Overview>
+  <ProductionCode>618G-105</ProductionCode>
+  <Rating>8.6</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Zach Paez|Alex Hirsch|</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/259972/4344076.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621637</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4344077</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Aaron Springer|Joe Pitt|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Inconveniencing</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2012-07-13</FirstAired>
+  <GuestStars>|Ken Jenkins|April Winchell|</GuestStars>
+  <IMDB_ID>tt2229196</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper is invited by Wendy and her teen friends on a trek that leads to an abandoned convenience store that may be haunted.</Overview>
+  <ProductionCode>618G-104</ProductionCode>
+  <Rating>8.7</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/259972/4344077.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621647</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4344078</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Aaron Springer|Joe Pitt|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dipper vs. Manliness</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2012-07-20</FirstAired>
+  <GuestStars>Alfred Molina</GuestStars>
+  <IMDB_ID>tt2229192</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In a quest to attain manliness, Dipper ventures into the forest to battle the notorious Multi-Bear. Meanwhile, Mabel tries to teach Grunkle Stan how to be attractive to women, particularly the waitress in the local diner, Lazy Susan.</Overview>
+  <ProductionCode>618G-106</ProductionCode>
+  <Rating>8.7</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Tim McKeon</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/259972/4344078.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621659</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4359793</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Aaron Springer|Joe Pitt|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Double Dipper</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2012-08-10</FirstAired>
+  <GuestStars>Jackie Buscarino</GuestStars>
+  <IMDB_ID>tt2267658</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Stan throws a big weekend party to promote the Mystery Shack. Dipper makes clones of himself to impress Wendy. Mabel fights for the Party Queen title in honor of her two friends.</Overview>
+  <ProductionCode>618G-108</ProductionCode>
+  <Rating>9.2</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Michael Rianda|Tim McKeon|Alex Hirsch|Mitch Larson|</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/259972/4359793.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621672</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4359794</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>John Aoshima</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Irrational Treasure</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2012-08-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2267660</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Dipper and Mabel discover evidence that the reported town founder is a hoax, they set out to expose the historical cover-up and prove that Mabel's silliness is not a bad thing.</Overview>
+  <ProductionCode>618G-110</ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|David Slack|Tim McKeon|Alex Hirsch|</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/259972/4359794.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621684</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4359795</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Joe Pitt|Aaron Springer|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Time Traveler's Pig</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2012-08-24</FirstAired>
+  <GuestStars>|Justin Roiland|Dave Wittenberg|Diedrich Bader|</GuestStars>
+  <IMDB_ID>tt2310928</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper wants to correct a mistake he made in the past with assistance from a time machine. Mabel is overjoyed when she wins a pet pig at a fair.</Overview>
+  <ProductionCode>618G-109</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Aury Wallington|Alex Hirsch|</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/259972/4359795.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621694</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4393844</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>John Aoshima</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Fight Fighters</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2012-09-14</FirstAired>
+  <GuestStars>Brian Bloom</GuestStars>
+  <IMDB_ID>tt2340344</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After being challenged to a fight by Wendy's boyfriend Robbie, Dipper is shocked when his favorite Fight Fighters fighter, Rumble McSkirmish, comes to life to defend him, but Dipper soon loses control of Rumble and has to find a way to stop him from seriously injuring Robbie</Overview>
+  <ProductionCode>618G-111</ProductionCode>
+  <Rating>9.1</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Zach Paez|Alex Hirsch|</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/259972/4393844.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621703</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4393845</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Aaron Springer|Joe Pitt|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Little Dipper</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2012-09-28</FirstAired>
+  <GuestStars>|Thurop Van Orman|Grey DeLisle|</GuestStars>
+  <IMDB_ID>tt2340350</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper is self-conscious that Mabel is taller than him and seeks a magic solution. Meanwhile Lil' Gideon takes advantage of Dipper's and Mabel's height discrepancy.</Overview>
+  <ProductionCode>618G-102</ProductionCode>
+  <Rating>9.4</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Tim McKeon|Zach Paez|Alex Hirsch|</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/259972/4393845.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1461944143</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4412099</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>John Aoshima</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Summerween</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2012-10-05</FirstAired>
+  <GuestStars>Jeff Bennett</GuestStars>
+  <IMDB_ID>tt2439428</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper and Mabel go trick-or-treating in the summer and encounter a candy-loving monster who threatens to devour them if they don't bring him sweet things to eat.</Overview>
+  <ProductionCode>618G-114</ProductionCode>
+  <Rating>8.9</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Zach Paez|Michael Rianda|Alex Hirsch|</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/259972/4412099.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621726</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4420022</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>John Aoshima</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Boss Mabel</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2013-02-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2468818</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel bets Grunkle Stan that she will make more money at the Mystery Shack by treating people nicely than he does by being rude and cranky.</Overview>
+  <ProductionCode>618G-115</ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Tommy Reahard|Tim McKeon|Alex Hirsch|</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/259972/4420022.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621736</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4507024</id>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Aaron Springer|Joe Pitt|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Bottomless Pit!</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2013-03-01</FirstAired>
+  <GuestStars>John DiMaggio</GuestStars>
+  <IMDB_ID>tt2717560</IMDB_ID>
+  <Language>en</Language>
+  <Overview>While Stan, Dipper, Mabel and Soos are falling in a bottomless pit, they tell stories to pass the time.</Overview>
+  <ProductionCode>618G-113</ProductionCode>
+  <Rating>8.9</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Alex Hirsch|Michael Rianda|</Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/259972/4507024.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621745</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4519484</id>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Aaron Springer|Joe Pitt|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Deep End</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2013-03-15</FirstAired>
+  <GuestStars>|Matt Chapman|Michael Rianda|</GuestStars>
+  <IMDB_ID>tt2717562</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Mabel befriends a cute merman trapped in the public pool, she's determined to help him out. Meanwhile, Dipper decides to volunteer as a lifeguard to see Wendy.</Overview>
+  <ProductionCode>618G-112</ProductionCode>
+  <Rating>8.7</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Nancy Cohen</Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/259972/4519484.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621759</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4524045</id>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joe Pitt</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Carpet Diem</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2013-04-05</FirstAired>
+  <GuestStars>Grey DeLisle</GuestStars>
+  <IMDB_ID>tt2717564</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The twins discover a hidden room inside the Mystery Shack and compete over who should have it.</Overview>
+  <ProductionCode>618G-117</ProductionCode>
+  <Rating>9.1</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Tim McKeon|Zach Paez|Alex Hirsch|</Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/259972/4524045.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621766</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4524046</id>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>John Aoshima</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Boyz Crazy</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2013-04-19</FirstAired>
+  <GuestStars>Lance Bass</GuestStars>
+  <IMDB_ID>tt2813658</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Mabel discovers that her favorite boy band is actually a bunch of imprisoned clones, she sets them free, only to decide on keeping them for herself. Meanwhile, Dipper is convinced that Robbie plans to brainwash Wendy with a secret message hidden inside one of his songs.</Overview>
+  <ProductionCode>618G-119</ProductionCode>
+  <Rating>9.5</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Matt Chapman|Alex Hirsch|</Writer>
+  <absolute_number>17</absolute_number>
+  <filename>episodes/259972/4524046.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621776</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4596512</id>
+  <Combined_episodenumber>18.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>18.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>John Aoshima</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Land Before Swine</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2013-06-28</FirstAired>
+  <GuestStars>|Justin Roiland|Grey DeLisle|</GuestStars>
+  <IMDB_ID>tt2973488</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Waddles is snatched by a prehistoric beast, Dipper, Mabel, Stan, Soos, and Old Man McGucket must journey to a mysterious land trapped in time to rescue him.</Overview>
+  <ProductionCode>618G-122</ProductionCode>
+  <Rating>9.1</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Tim McKeon|Alex Hirsch|</Writer>
+  <absolute_number>18</absolute_number>
+  <filename>episodes/259972/4596512.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621786</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4602885</id>
+  <Combined_episodenumber>19.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>19.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Joe Pitt|John Aoshima|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dreamscaperers (1)</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2013-07-12</FirstAired>
+  <GuestStars>|John Roberts|Greg Cipes|</GuestStars>
+  <IMDB_ID>tt3031772</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper, Mabel, and Soos must travel through Grunkle Stan's mind to defeat a tricky dream demon summoned by Lil Gideon.</Overview>
+  <ProductionCode>618G-120</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Tim McKeon|Matt Chapman|Alex Hirsch|</Writer>
+  <absolute_number>19</absolute_number>
+  <filename>episodes/259972/4602885.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1452621797</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4615292</id>
+  <Combined_episodenumber>20.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>20.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Joe Pitt|John Aoshima|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gideon Rises (2)</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2013-08-02</FirstAired>
+  <GuestStars>|Justin Roiland|Grey DeLisle|Stephen Root|</GuestStars>
+  <IMDB_ID>tt3054596</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Li'l Gideon swindles the Mystery Shack away, forcing Grunkle Stan and the kids to move in with Soos. While Stan weighs how he can still care for his grandniece and nephew, they decide to take on Gideon.</Overview>
+  <ProductionCode>618G-121</ProductionCode>
+  <Rating>9.6</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Matt Chapman|Alex Hirsch|Michael Rianda|</Writer>
+  <absolute_number>20</absolute_number>
+  <filename>episodes/259972/4615292.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1455623713</lastupdated>
+  <seasonid>494694</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2013-08-04 18:50:05</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4653528</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Rob Renzetti</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Scary-oke</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-08-01</FirstAired>
+  <GuestStars>|Nick Offerman|Brad Abrell|</GuestStars>
+  <IMDB_ID>tt3780836</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Pines family is starting to get everything back to normal after the Lil' Gideon incident. They throw a “Mystery Shack Is Back” party, but some unwelcome guests intend to crash it.</Overview>
+  <ProductionCode>618G-202</ProductionCode>
+  <Rating>9.2</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Jeff Rowe|Matt Chapman|Alex Hirsch|</Writer>
+  <absolute_number>21</absolute_number>
+  <filename>episodes/259972/4653528.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1457304478</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-07-31 21:33:39</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4908804</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joe Pitt</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Into the Bunker</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-08-04</FirstAired>
+  <GuestStars>Mark Hamill</GuestStars>
+  <IMDB_ID>tt3802848</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper’s secret journal pages lead him and the gang to the author’s hidden bunker where they find themselves face-to-face with a mysterious figure from Gravity Falls’ lore.</Overview>
+  <ProductionCode>618G-201</ProductionCode>
+  <Rating>9.8</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Matt Chapman|Alex Hirsch|</Writer>
+  <absolute_number>22</absolute_number>
+  <filename>episodes/259972/4908804.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1457402393</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-07-31 21:36:54</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4917013</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Braly</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Golf War</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-08-11</FirstAired>
+  <GuestStars>|Patton Oswalt|Nathan Fillion|John O'Hurley|Jim Cummings|John Roberts|Greg Cipes|</GuestStars>
+  <IMDB_ID>tt3918432</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After being belittled by Pacifica one too many times, Mabel challenges her to a miniature golf-off which gets a tad out of control when some local residents offer their help.</Overview>
+  <ProductionCode>618G-203</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Jeff Rowe|Alex Hirsch|</Writer>
+  <absolute_number>23</absolute_number>
+  <filename>episodes/259972/4917013.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316112</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-08-02 11:33:09</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4955554</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Joe Pitt|Matt Braly|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sock Opera</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-09-08</FirstAired>
+  <GuestStars>Jorma Taccone</GuestStars>
+  <IMDB_ID>tt3918438</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel decides to put on a sock puppet rock opera to impress a local puppeteer, but her show goes awry when Dipper's drive to uncover more of the journal's secrets leads to a supernatural disaster.</Overview>
+  <ProductionCode>618G-206</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Shion Takeuchi|Alex Hirsch|</Writer>
+  <absolute_number>24</absolute_number>
+  <filename>episodes/259972/4955554.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316140</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-08-17 15:44:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4964464</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Braly</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Soos and the Real Girl</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-09-22</FirstAired>
+  <GuestStars>|Jessica DiCicco|Jillian Bell|Paul Scheer|Brian Bloom|</GuestStars>
+  <IMDB_ID>tt4054258</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Soos needs a date for his cousin Reggie's engagement party and looks to a dating simulator game to help him talk to girls.</Overview>
+  <ProductionCode>618G-204</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Mark Rizzo|Alex Hirsch|</Writer>
+  <absolute_number>25</absolute_number>
+  <filename>episodes/259972/4964464.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1457304490</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-08-17 15:47:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4999789</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Stephen Sandoval</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Little Gift Shop of Horrors</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-10-04</FirstAired>
+  <GuestStars>|Neil deGrasse Tyson|Will Forte|John DiMaggio|</GuestStars>
+  <IMDB_ID>tt4082996</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In three separate mysterious tales, Stan is cursed by a Witch, Waddles accidentally eats a bowl of brain-enhancing jelly and builds a machine that allows him to speak, and Mabel faces her fear of claymation.</Overview>
+  <ProductionCode>618G-205</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Alex Hirsch|Shion Takeuchi|Matt Chapman|</Writer>
+  <absolute_number>26</absolute_number>
+  <filename>episodes/259972/4999789.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316271</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-10-03 14:23:08</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5008306</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Sunil Hall</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Society of the Blind Eye</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-10-27</FirstAired>
+  <GuestStars>Peter Serafinowicz</GuestStars>
+  <IMDB_ID>tt4074470</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The kids, along with Old Man McGucket's help, discover there is a secret society in Gravity Falls.</Overview>
+  <ProductionCode>618G-207</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Matt Chapman|Alex Hirsch|Zach Paez|</Writer>
+  <absolute_number>27</absolute_number>
+  <filename>episodes/259972/5008306.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316305</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-10-03 14:24:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5030466</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Braly</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Blendin's Game</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-11-10</FirstAired>
+  <GuestStars>|Justin Roiland|Dave Wittenberg|Diedrich Bader|</GuestStars>
+  <IMDB_ID>tt4192532</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Blendin returns to face off with Dipper and Mabel in a futuristic battle that could trap them forever in time jail.</Overview>
+  <ProductionCode>618G-208</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Jeff Rowe|Alex Hirsch|</Writer>
+  <absolute_number>28</absolute_number>
+  <filename>episodes/259972/5030466.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316336</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-10-28 13:04:45</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5034993</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Sunil Hall</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Love God</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-11-24</FirstAired>
+  <GuestStars>|Jillian Bell|John DiMaggio|Jorma Taccone|</GuestStars>
+  <IMDB_ID>tt4192536</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel takes matchmaking too far when she steals a love potion from a real Love God.</Overview>
+  <ProductionCode>618G-209</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Josh Weinstein|Alex Hirsch|</Writer>
+  <absolute_number>29</absolute_number>
+  <filename>episodes/259972/5034993.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316364</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2014-11-25 11:57:20</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5111877</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Braly</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Northwest Mansion Mystery</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-02-16</FirstAired>
+  <GuestStars>|Kevin Michael Richardson|Kari Wahlgren|Nick Offerman|Will Forte|Nathan Fillion|</GuestStars>
+  <IMDB_ID>tt4373958</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Pacifica enlists Dipper’s help to rid the Northwest Mansion of a ghost before he wreaks havoc on her fancy party.</Overview>
+  <ProductionCode>618G-211</ProductionCode>
+  <Rating>9.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Mark Rizzo|Jeff Rowe|Alex Hirsch|</Writer>
+  <absolute_number>30</absolute_number>
+  <filename>episodes/259972/5111877.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316391</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-02-17 10:08:23</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5130600</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Stephen Sandoval</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Not What He Seems</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-03-09</FirstAired>
+  <GuestStars>|Nick Offerman|Brad Abrell|</GuestStars>
+  <IMDB_ID>tt4460256</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After agents Powers and Trigger take Stan into custody, Dipper and Mabel begin to wonder how much they actually know about their Grunkle Stan.</Overview>
+  <ProductionCode>618G-210</ProductionCode>
+  <Rating>10.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Matt Chapman|Alex Hirsch|Zach Paez|</Writer>
+  <absolute_number>31</absolute_number>
+  <filename>episodes/259972/5130600.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316438</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-02-26 13:51:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5250240</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Sunil Hall</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Tale of Two Stans</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2015-07-13</FirstAired>
+  <GuestStars>|J.K. Simmons|Jonathan Banks|Nick Offerman|Brad Abrell|</GuestStars>
+  <IMDB_ID>tt4575574</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Cornered underneath the Mystery Shack, Stan must finally reveal the secrets of his past and his mysterious portal to Dipper and Mabel.</Overview>
+  <ProductionCode>618G-213</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Alex Hirsch|Josh Weinstein|Matt Chapman|</Writer>
+  <absolute_number>32</absolute_number>
+  <filename>episodes/259972/5250240.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316481</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-06-12 13:58:56</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5276237</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Stephen Sandoval</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dungeons, Dungeons, &amp; More Dungeons</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2015-08-03</FirstAired>
+  <GuestStars>|J.K. Simmons|'Weird Al' Yankovic|Fred Tatasciore|</GuestStars>
+  <IMDB_ID>tt4823986</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper finds an unlikely friend to join him with his newest obsession — a board game called “Dungeons, Dungeons, and More Dungeons.”</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Alex Hirsch|Josh Weinstein|Matt Chapman|Zach Paez|</Writer>
+  <absolute_number>33</absolute_number>
+  <filename>episodes/259972/5276237.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316531</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-11 11:47:34</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5276238</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Braly</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Stanchurian Candidate</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2015-08-24</FirstAired>
+  <GuestStars>|J.K. Simmons|Cecil Baldwin|Will Forte|</GuestStars>
+  <IMDB_ID>tt4843660</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Grunkle Stan decides to run for mayor, Dipper and Mabel have their work cut out for them trying to turn their gaffe-prone uncle into the perfect candidate.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Jeff Rowe|Josh Weinstein|Alex Hirsch|Michael Rianda|</Writer>
+  <absolute_number>34</absolute_number>
+  <filename>episodes/259972/5276238.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316577</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-07-11 11:47:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5305160</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Braly</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Last Mabelcorn</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2015-09-07</FirstAired>
+  <GuestStars>|J.K. Simmons|Sam Marin|Kari Wahlgren|Matt Chapman|</GuestStars>
+  <IMDB_ID>tt4938792</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A new threat leads Mabel to venture into the enchanted realm of the unicorns. Meanwhile, Dipper learns an unexpected twist about the enigmatic Bill Cipher.</Overview>
+  <ProductionCode>618G-222</ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Alex Hirsch</Writer>
+  <absolute_number>35</absolute_number>
+  <filename>episodes/259972/5305160.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1463078077</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-09-04 12:42:11</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5305161</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Sunil Hall</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Roadside Attraction</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2015-09-21</FirstAired>
+  <GuestStars>Chelsea Peretti</GuestStars>
+  <IMDB_ID>tt4938796</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Grunkle Stan takes the kids with him on a road-trip to sabotage all the other tourist traps in Oregon.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Jeff Rowe|Josh Weinstein|Alex Hirsch|</Writer>
+  <absolute_number>36</absolute_number>
+  <filename>episodes/259972/5305161.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316657</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-09-09 14:16:19</thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5339875</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Stephen Sandoval</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dipper and Mabel vs. the Future</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2015-10-12</FirstAired>
+  <GuestStars>|J.K. Simmons|Justin Roiland|</GuestStars>
+  <IMDB_ID>tt5045754</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mabel decides to plan for her and Dipper's 13th birthday party. Meanwhile, Dipper and Ford venture below the town to find its most shocking secret.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Alex Hirsch|Josh Weinstein|Matt Chapman|Jeff Rowe|</Writer>
+  <absolute_number>37</absolute_number>
+  <filename>episodes/259972/5339875.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1453316696</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-10-14 15:10:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5370543</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Sunil Hall</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Weirdmageddon (1)</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2015-10-26</FirstAired>
+  <GuestStars>|Louis C.K.|Danielle Fishel|Patrick McHale|Andy Merrill|Brian Bloom|Nathan Fillion|Justin Roiland|Dave Wittenberg|J. K. Simmons|</GuestStars>
+  <IMDB_ID>tt5107700</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Trapped in the apocalypse and menaced by villains new and old, Dipper finds himself in a race against time.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>10.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Jeff Rowe|Josh Weinstein|Alex Hirsch|</Writer>
+  <absolute_number>38</absolute_number>
+  <filename>episodes/259972/5370543.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1459283164</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-10-27 10:31:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5389618</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Braly</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Weirdmageddon (2): Escape From Reality</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2015-11-23</FirstAired>
+  <GuestStars>|Jon Stewart|John Roberts|Greg Cipes|Danielle Fishel|Patrick McHale|Eric Bauza|Alfred Molina|</GuestStars>
+  <IMDB_ID>tt5153882</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dipper, Soos and Wendy must save Mabel from a strange new world, while Bill's forces plan their next move.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Alex Hirsch|Jeff Rowe|</Writer>
+  <absolute_number>39</absolute_number>
+  <filename>episodes/259972/5389618.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1459283199</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2015-11-23 19:43:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5432171</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Stephen Sandoval</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Weirdmageddon (3): Take Back The Falls</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2016-02-15</FirstAired>
+  <GuestStars>|Louis C.K.|Danielle Fishel|Cecil Baldwin|Kyle MacLachlan|Andy Merrill|Nathan Fillion|J. K. Simmons|Larry King|</GuestStars>
+  <IMDB_ID>tt5153884</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the series finale, the Mystery Shack crew and townsfolk fight against Bill Cipher and his minions in a final stand to defeat them once and for all and save the town of Gravity Falls and the world.</Overview>
+  <ProductionCode>618G-221</ProductionCode>
+  <Rating>9.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Alex Hirsch|Shion Takeuchi|Mark Rizzo|Jeff Rowe|Josh Weinstein|</Writer>
+  <absolute_number>40</absolute_number>
+  <filename>episodes/259972/5432171.jpg</filename>
+  <is_movie>0</is_movie>
+  <lastupdated>1463682251</lastupdated>
+  <seasonid>528922</seasonid>
+  <seriesid>259972</seriesid>
+  <thumb_added>2016-02-15 22:18:15</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>
