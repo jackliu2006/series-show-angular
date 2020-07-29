@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
-![alt text](https://photos.app.goo.gl/kUKt9gm5HHaeQyJH6)
+![alt tag](https://github.com/jackliu2006/series-show-angular/issues/1#issuecomment-665507049)
 
 
 
