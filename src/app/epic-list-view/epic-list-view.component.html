@@ -3,6 +3,8 @@
     <tr>
         <th>Episode Number</th>
         <th>Episode Name</th>
+        <th>Director</th>
+        <th>Overview</th>
         <th>Language</th>
         <th>RatingCount</th>
         <th>SeasonNumber</th>
@@ -11,6 +13,8 @@
     <tr *ngFor="let epic of epicList" class="li">
         <td>{{epic.EpisodeNumber}}</td>
         <td>{{epic.EpisodeName}}</td>
+        <td>{{epic.Director}}</td>
+        <td>{{epic.Overview}}</td>
         <td>{{epic.Language}}</td>
         <td>{{epic.RatingCount}}</td>
         <td>{{epic.SeasonNumber}}</td>

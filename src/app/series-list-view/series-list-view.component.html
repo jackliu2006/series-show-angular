@@ -1,9 +1,10 @@
-<h2>Series Offered to You:</h2>
+<h2>Here are all Series:</h2>
 <table>
     <tr>
         <th>ID</th>
         <th>SeriesName</th>
-        <th>Actors</th>
+        <th>Genre</th>
+        <th>Overview</th>
         <th>Airs_DayOfWeek</th>
         <th>Airs_Time</th>
         <th>FirstAired</th>
@@ -13,7 +14,8 @@
     <tr *ngFor="let series of seriesList" class="li">
         <td><a [routerLink]="['/epic-list-view',series.id]">{{series.id}}</a></td>
         <td>{{series.SeriesName}}</td>
-        <td>{{series.Actors}}</td>
+        <td>{{series.Genre}}</td>
+        <td>{{series.Overview}}</td>
         <td>{{series.Airs_DayOfWeek}}</td>
         <td>{{series.Airs_Time}}</td>
         <td>{{series.FirstAired}}</td>
